@@ -1,0 +1,20 @@
+{
+  "name": "excel-analytics-platform",
+  "version": "1.0.0",
+  "description": "zidio internship, 3 month, group 16, 25june2025 - 25sep2025",
+  "license": "ISC",
+  "author": "Guntas Singh",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "concurrently --kill-others \"npm run server\" \"npm run client\"",
+    "start": "cd server && npm run start",
+    "server": "cd server && npm run dev",
+    "client": "cd client && npm run dev",
+    "build": "cd client && npm run build && cp -r dist ../server"
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.0",
+    "nodemon": "^3.1.10"
+  }
+}
