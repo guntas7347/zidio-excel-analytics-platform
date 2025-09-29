@@ -8,8 +8,8 @@ This project was developed during the **Zidio Group 16 Training Internship**. It
 
 ## 👨‍💻 Team Members
 
-- **Guntas** – Full Stack Dev  
-- **Shetty** – Frontend Dev
+- **Guntas Singh** – Full Stack Dev  
+- **Pruthvi P Shetty** – Frontend Dev
 
 ## 🛠️ Tools & Technologies Used
 
