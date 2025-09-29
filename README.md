@@ -1,8 +1,34 @@
-# Excel Analytics Platform
+# Zidio Group 16 Training Internship Excel Analytics Project
 
-[Watch the video](https://youtu.be/b0Taq-iLQkw)
+## 📺 Project Overview
 
+This project was developed during the **Zidio Group 16 Training Internship**. It focuses on analyzing datasets using **Microsoft Excel** to generate insights, visualizations, and actionable reports.
 
-Excel Analytics Platform is a full-stack MERN application that allows users to upload Excel files (.xls or .xlsx), analyze the data, and generate interactive 2D and 3D charts. Users can select chart types, pick X and Y axes from the uploaded data, and view/download visualizations.
+🎥 [Watch the project video](https://youtu.be/b0Taq-iLQkw)
 
-The platform also includes user authentication, a dashboard to view upload history, and an admin panel for managing users and data. Optionally, AI features can provide smart insights or summary reports from the uploaded data.
+## 👨‍💻 Team Members
+
+- **Guntas** – Data Analyst  
+- **Shetty** – Data Analyst
+
+## 🛠️ Tools & Technologies Used
+
+- **Microsoft Excel** (Pivot Tables, Formulas, Charts)  
+- **Power Query** for data transformation  
+- **Data Visualization**: Charts, Graphs, Conditional Formatting  
+- **Version Control**: Git, GitHub  
+
+## 🚀 Project Features
+
+- **Data Cleaning**: Remove duplicates, handle missing data  
+- **Data Analysis**: Use formulas, pivot tables, and charts  
+- **Reporting**: Generate dashboards and visual insights  
+- **Scenario Analysis**: Apply What-If Analysis, Forecasting, and Trend Analysis  
+
+## 📥 Installation Instructions
+
+### Clone the repository
+
+```bash
+git clone https://github.com/yourusername/zidio-group-16-excel-analytics.git
+cd zidio-group-16-excel-analytics
