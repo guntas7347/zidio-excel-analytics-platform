@@ -8,8 +8,8 @@ This project was developed during the **Zidio Group 16 Training Internship**. It
 
 ## 👨‍💻 Team Members
 
-- **Guntas** – Data Analyst  
-- **Shetty** – Data Analyst
+- **Guntas** – Full Stack Dev  
+- **Shetty** – Frontend Dev
 
 ## 🛠️ Tools & Technologies Used
 
